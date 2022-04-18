@@ -1,0 +1,10 @@
+# README file for 'Variation in Ubiquitin System Genes Creates
+# Substrate-Specific Effects on Proteasomal Protein Degradation'
+
+* Overview
+This repository contains analysis code and the manuscript file for 'Variation in
+Ubiquitin System Genes Creates Substrate-Specific Effects on Proteasomal Protein
+Degradation'.  The analysis code is contained in the file
+'N-end_rule_QTL_code.org' and the manuscript is contained in
+'N-end_rule_QTL_manuscript.org'.  Scripts for individual analyses are tangled
+from 'N-end_rule_QTL_code.org' and located in the folder 'scripts'.  
